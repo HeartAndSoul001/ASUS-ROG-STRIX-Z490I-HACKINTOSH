@@ -16,9 +16,8 @@
 **参考EFI链接：https://github.com/jergoo/Hackintosh-ROG-STRIX-Z490I，感谢 jergoo ，EFI已经很完美了**
 
 ## 我做的修改：
-1. Intel wifi 和 intel 蓝牙，jergoo是采用了博通免驱卡，我才用了intel wifi
+1. Intel wifi 和 intel 蓝牙，jergoo是采用了博通免驱卡，我采用了intel wifi
 2. 补齐了电源5项，其实没什么用，强迫症而已
-3. 替换了我笔记本的EFI主题，挺好看的，不知道是谁做的，感谢感谢
 
 ## 我遇到的问题：
 
@@ -31,7 +30,7 @@
 | 序号 |    时间    |  OC版本  |      系统版本       |                           改动内容                           |
 | :--: | :--------: | :------: | :-----------------: | :----------------------------------------------------------: |
 |  1   | 2022.07.13 | OC 0.8.2 | Ventura 13.0 公测版 | 1.更新 OC 0.8.2<br />2.勾选 kernel-->quirks-->DisableRtcChecksum，解决华硕主板卡 F1的情况 |
-|      |            |          |                     |                                                              |
+|  2   | 2024.02.19 | OC 0.9.8 |     Sonoma 14.3     | 1.更新OC 版本<br />2.I225-V网卡打补丁,解决有线网导致的机器重启卡死问题(参考链接:https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1934671&highlight=I225-V) |
 |      |            |          |                     |                                                              |
 |      |            |          |                     |                                                              |
 |      |            |          |                     |                                                              |
