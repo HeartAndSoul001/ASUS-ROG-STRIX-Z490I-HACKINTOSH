@@ -15,9 +15,9 @@
 
 **参考EFI链接：https://github.com/jergoo/Hackintosh-ROG-STRIX-Z490I，感谢 jergoo ，EFI已经很完美了**
 
-![IMG_8544](/Users/wzq/Documents/黑苹果备份/台式机/ASUS-ROG-STRIX-Z490I-HACKINTOSH/IMG_8544.JPG)
+<img src="./IMG_8544.JPG" alt="IMG_8544" style="zoom:50%;" />
 
-![IMG_8543](/Users/wzq/Documents/黑苹果备份/台式机/ASUS-ROG-STRIX-Z490I-HACKINTOSH/IMG_8543.JPG)
+<img src="./IMG_8543.JPG" alt="IMG_8543" style="zoom:50%;" />
 
 ## 我做的修改：
 1. Intel wifi 和 intel 蓝牙，jergoo是采用了博通免驱卡，我采用了intel wifi
